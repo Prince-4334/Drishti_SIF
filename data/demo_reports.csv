@@ -1,0 +1,421 @@
+report_id,site,report_type,description,date
+R0369,Naharkatiya,Near miss,Crane lift of transfer pump was done as per the lift plan. No injury occurred.,2025-10-01
+R0001,Naharkatiya,Unsafe condition,Register entry was missed by the security guard. Reminder issued.,2025-10-02
+R0006,Kumchai,Incident,Training record was not updated for one employee during the weekly audit. Reminder issued.,2025-10-02
+R0122,Tinsukia,Incident,Welding job completed with gas test and fire watch in place after the toolbox talk. Job completed safely.,2025-10-02
+R0377,Jaisalmer,Unsafe act,Welder started gas cutting near compressor C-11 without gas testing. Stopped by the safety officer.,2025-10-02
+R0316,Naharkatiya,Unsafe act,Hot work was carried out with a valid permit and fire watch by a trained team. No issue found.,2025-10-03
+R0174,Jaisalmer,Unsafe act,Vehicle was parked in the wrong bay at the gate near the main gate. Security informed.,2025-10-04
+R0401,Naharkatiya,Unsafe condition,Mechanic removed coupling guard of heater treater for repair though motor was not isolated.,2025-10-04
+R0046,Naharkatiya,Near miss,Visitor entered the office area without a badge for a short time. Counselled on the spot.,2025-10-05
+R0163,Naharkatiya,Unsafe condition,Two wheeler parked near the fence during the morning shift.,2025-10-06
+R0232,Moran,Unsafe condition,Employee twisted his ankle while walking on the stairs and received first aid.,2025-10-06
+R0027,Naharkatiya,Near miss,Hot work was carried out with valid permit and fire watch. Good practice observed.,2025-10-10
+R0233,Kumchai,Near miss,Tank entry was done after gas testing with a standby person after the toolbox talk. Job completed safely.,2025-10-10
+R0183,Duliajan,Incident,Isolation of generator set was verified and locked out before repair by trained team. Job completed safely.,2025-10-11
+R0311,Naharkatiya,Incident,Wet floor near canteen entrance in maintenance shop.,2025-10-11
+R0171,Moran,Near miss,Worker got a small cut on the finger while opening a box at the site office. Returned to duty after first aid.,2025-10-12
+R0309,Moran,Unsafe condition,Driver was driving the crew van to the rig after a long shift without rest. Skidded near the pipeline.,2025-10-12
+R0389,Jaisalmer,Near miss,Chair in the control room was broken. Item was replaced.,2025-10-12
+R0087,Jaisalmer,Incident,Register entry was missed by the security guard during the weekly audit. Reminder issued.,2025-10-14
+R0228,Duliajan,Incident,Crew member stood in the swing path of the pipe while the crane was lifting. Object missed him by a metre.,2025-10-14
+R0295,Kumchai,Near miss,Training record was not updated for one employee during the weekly audit.,2025-10-14
+R0011,Naharkatiya,Incident,Extension board had broken cover in office.,2025-10-15
+R0066,Moran,Unsafe act,Worker was found without ear plugs in the generator room for a short time. PPE was issued.,2025-10-15
+R0416,Moran,Unsafe condition,Store room shelves were not arranged properly outside control room. Housekeeping team informed.,2025-10-17
+R0053,Kumchai,Near miss,Worker used a hammer with a loose handle in the workshop. No injury occurred.,2025-10-18
+R0356,Jaisalmer,Near miss,Oil spill was seen on the floor of the pump house outside the control room. No injury occurred.,2025-10-18
+R0348,Tinsukia,Near miss,Bus was late reaching the colony near the main gate.,2025-10-20
+R0112,Duliajan,Unsafe act,Helper was positioned in the line of fire while releasing pressure while the line was still pressurised. No injury occurred.,2025-10-21
+R0376,Kumchai,Unsafe condition,Helper had a minor bruise from the tool box. Returned to duty after first aid.,2025-10-22
+R0414,Kumchai,Near miss,Worker was found without ear plugs in the generator room in a low risk area. No injury occurred.,2025-10-22
+R0175,Moran,Unsafe act,Crane lift of generator set was done as per the lift plan. No issue found.,2025-10-23
+R0270,Duliajan,Near miss,Worker was found without ear plugs in generator room in low risk area. Counselled on spot.,2025-10-23
+R0050,Tinsukia,Unsafe condition,Staff member slipped on the wet floor of the pantry. Returned to duty after first aid.,2025-10-25
+R0062,Naharkatiya,Incident,Driver forgot to carry the vehicle papers near the main gate.,2025-10-25
+R0406,Tinsukia,Unsafe act,Vehicle was parked in the wrong bay at the gate during the morning shift. Security informed.,2025-10-28
+R0410,Moran,Incident,Tank entry was done after gas testing with a standby person by a trained team. Job completed safely.,2025-10-29
+R0224,Kumchai,Near miss,Two wheeler parked near the fence during the morning shift. Driver was reminded.,2025-10-30
+R0234,Duliajan,Unsafe act,Helper had a minor bruise from the tool box at the site office. No lost time.,2025-11-01
+R0283,Kumchai,Incident,Daily checklist was not signed in the control room in the admin building. Reminder issued.,2025-11-01
+R0373,Jaisalmer,Unsafe act,Two wheeler parked near the fence during the morning shift. No injury occurred.,2025-11-02
+R0269,Jaisalmer,Unsafe act,Crew started work on the live gas line without a toolbox talk.,2025-11-03
+R0328,Kumchai,Near miss,Daily checklist was not signed in the control room during the weekly audit. Corrected the same day.,2025-11-03
+R0014,Kumchai,Unsafe condition,Fire extinguisher inspection tag was overdue in the office block. Corrected the same day.,2025-11-06
+R0132,Naharkatiya,Unsafe act,Crane lift of well pad panel was done as per the lift plan. No injury occurred.,2025-11-06
+R0142,Moran,Near miss,Worker used hammer with loose handle. Sent for repair.,2025-11-06
+R0154,Moran,Near miss,Chair in control room was broken in workshop. No injury occurred.,2025-11-06
+R0236,Naharkatiya,Near miss,Painter worked on the tank roof without anchoring the lanyard. Tool fell from height.,2025-11-07
+R0386,Naharkatiya,Incident,Worker used hammer with loose handle in admin block.,2025-11-07
+R0387,Naharkatiya,Near miss,Chair in the control room was broken in the workshop.,2025-11-07
+R0030,Naharkatiya,Unsafe act,Isolation of mud pump was verified and locked out before repair after the toolbox talk.,2025-11-11
+R0344,Naharkatiya,Incident,Ladder of the store had a missing rubber foot in the admin block. Sent for repair.,2025-11-12
+R0069,Duliajan,Incident,Training record was not updated for one employee.,2025-11-13
+R0384,Duliajan,Unsafe act,Crew member stood in the swing path of the pipe while the line was still pressurised.,2025-11-15
+R0065,Jaisalmer,Near miss,Bus was late reaching the colony. No injury occurred.,2025-11-16
+R0134,Tinsukia,Incident,Crew member stood in the swing path of the pipe while the line was still pressurised. Object missed him by a metre.,2025-11-16
+R0282,Moran,Unsafe act,Hot work was carried out with valid permit and fire watch. No injury occurred.,2025-11-17
+R0287,Naharkatiya,Incident,Fitter began repairing well pad panel without confirming electrical isolation. Power was still live.,2025-11-17
+R0121,Duliajan,Incident,Rigger was standing under the suspended load as the pipe swung on the sling. The load moved sideways.,2025-11-20
+R0343,Kumchai,Near miss,Helper not wearing safety glasses while sweeping. Counselled on the spot.,2025-11-20
+R0135,Duliajan,Unsafe condition,Store room shelves were not arranged properly outside the control room. Reported to supervisor.,2025-11-21
+R0203,Jaisalmer,Unsafe condition,Driver forgot to carry the vehicle papers.,2025-11-21
+R0400,Moran,Near miss,Fire extinguisher inspection tag was overdue in the office block. Corrected the same day.,2025-11-21
+R0418,Duliajan,Unsafe condition,Employee walking without hand gloves in the store. PPE was issued.,2025-11-22
+R0184,Kumchai,Incident,Two wheeler parked near the fence near the main gate. Security informed.,2025-11-24
+R0274,Kumchai,Near miss,Training record was not updated for one employee.,2025-11-24
+R0019,Jaisalmer,Near miss,Ladder of the store had a missing rubber foot in the admin block. No injury occurred.,2025-11-25
+R0024,Duliajan,Incident,Helper was positioned in line of fire while releasing pressure while crane was lifting. Object missed him by metre.,2025-11-25
+R0396,Tinsukia,Near miss,Loose cables were lying on the walkway near transfer pump outside the control room. No injury occurred.,2025-11-25
+R0245,Jaisalmer,Unsafe act,Welding job completed with gas test and fire watch in place after the toolbox talk. Job completed safely.,2025-11-26
+R0285,Kumchai,Unsafe act,Hot work was carried out with a valid permit and fire watch by a trained team. Good practice observed.,2025-11-26
+R0108,Moran,Incident,Extension board had broken cover in office in admin block. Item was replaced.,2025-11-28
+R0264,Jaisalmer,Unsafe condition,Extension board had a broken cover in the office in the admin block. Item was replaced.,2025-11-28
+R0211,Kumchai,Near miss,Isolation of GGS feed pump was verified and locked out before repair by a trained team.,2025-11-29
+R0419,Jaisalmer,Unsafe act,Ladder of the store had a missing rubber foot in the admin block. Sent for repair.,2025-11-29
+R0276,Jaisalmer,Unsafe condition,Wet floor near the caneten entrance.,2025-11-30
+R0201,Moran,Near miss,Chair in the control room was broken in the admin block. No injury occurred.,2025-12-03
+R0241,Moran,Near miss,Extension board had a broken cover in the office.,2025-12-04
+R0204,Tinsukia,Unsafe condition,Worker was found without ear plugs in the generator room in a low risk area.,2025-12-05
+R0094,Jaisalmer,Unsafe act,Worker used a hammer with a loose handle in the workshop. Item was replaced.,2025-12-07
+R0206,Naharkatiya,Unsafe act,Ladder of the store had a missing rubber foot in the admin block. Item was replaced.,2025-12-07
+R0162,Kumchai,Unsafe condition,Crane lift of separator unit was done as per the lift plan. No issue found.,2025-12-08
+R0296,Tinsukia,Near miss,Store room shelves were not arranged properly in the maintenance shop. Housekeeping team informed.,2025-12-08
+R0306,Duliajan,Unsafe act,Loose cables were lying on walkway near mud pump in maintenance shop. Area was cleaned.,2025-12-08
+R0333,Naharkatiya,Unsafe condition,Fitter began repairing heater treater without lockout tag. Supervisor stopped the job.,2025-12-08
+R0055,Naharkatiya,Near miss,Mechanic removed coupling guard of generator set for repair and breaker was found ON. No injury occurred.,2025-12-10
+R0192,Duliajan,Near miss,Chair in control room was broken in workshop. No injury occurred.,2025-12-10
+R0260,Jaisalmer,Unsafe act,Driver forgot to carry the vehicle papers. No injury occurred.,2025-12-10
+R0199,Jaisalmer,Near miss,Two wheeler parked near the fence near the main gate. No injury occurred.,2025-12-13
+R0208,Tinsukia,Near miss,Scrap material was kept in the passage in the maintenance shop. No injury occurred.,2025-12-13
+R0209,Moran,Near miss,Daily checklist was not signed in control room.,2025-12-14
+R0249,Naharkatiya,Near miss,Chair in the control room was broken in the admin block. No injury occurred.,2025-12-14
+R0259,Kumchai,Unsafe act,Staff member slipped on the wet floor of the pantry at the site office. No lost time.,2025-12-14
+R0084,Kumchai,Near miss,Register entry was missed by security guard in admin building. Reminder issued.,2025-12-15
+R0165,Naharkatiya,Unsafe condition,Worker got a small cut on the finger while opening a box at the site office.,2025-12-16
+R0353,Moran,Near miss,Daily checklist was not signed in the control room in the admin building.,2025-12-16
+R0025,Naharkatiya,Near miss,Employee walking without hand gloves in the store. PPE was issued.,2025-12-18
+R0223,Kumchai,Incident,Training record was not updated for one employee during the weekly audit. Corrected the same day.,2025-12-18
+R0255,Tinsukia,Unsafe act,Register entry was missed by the security guard during the weekly audit. Corrected the same day.,2025-12-18
+R0133,Kumchai,Unsafe condition,Training record was not updated for one employee. Reminder issued.,2025-12-19
+R0033,Duliajan,Incident,Employee walking without hand gloves in store in low risk area. Counselled on spot.,2025-12-20
+R0138,Tinsukia,Near miss,Two wheeler parked near the fence. Security informed.,2025-12-20
+R0217,Duliajan,Near miss,Mobile crane started lifting generator with damaged sling. Load tilted during lift.,2025-12-20
+R0008,Moran,Near miss,Helper had minor bruise from tool box and received first aid. Returned to duty after first aid.,2025-12-21
+R0109,Naharkatiya,Incident,Vehicle was parked in the wrong bay at the gate. Security informed.,2025-12-21
+R0125,Kumchai,Near miss,Daily checklist was not signed in the control room. Corrected the same day.,2025-12-23
+R0301,Moran,Near miss,Hot work was carried out with valid permit and fire watch. No issue found.,2025-12-23
+R0279,Tinsukia,Incident,Extension board had a broken cover in the office in the workshop. Item was replaced.,2025-12-25
+R0354,Jaisalmer,Incident,Bus was late reaching colony.,2025-12-27
+R0289,Duliajan,Near miss,Ladder of store had missing rubber foot in admin block. No injury occurred.,2025-12-28
+R0399,Tinsukia,Unsafe act,Crane lift of well pad panel was done as per the lift plan after the toolbox talk. Job completed safely.,2025-12-28
+R0158,Tinsukia,Near miss,Driver forgot to carry the vehicle papers during the morning shift. Driver was reminded.,2025-12-29
+R0227,Kumchai,Incident,Driver forgot to carry the vehicle papers near the main gate. Driver was reminded.,2025-12-29
+R0382,Moran,Unsafe act,Worker was found without ear plugs in the generator room for a short time.,2025-12-29
+R0212,Tinsukia,Incident,Employee twisted his ankle while walking on the stairs.,2025-12-31
+R0262,Jaisalmer,Near miss,Visitor entered the office area without a badge. PPE was issued.,2025-12-31
+R0149,Moran,Unsafe condition,Fitter began repairing separator unit without confirming electrical isolation. Power was still live.,2026-01-01
+R0170,Kumchai,Incident,Helper not wearing safety glasses while sweeping. Counselled on the spot.,2026-01-01
+R0350,Duliajan,Incident,Training record was not updated for one employee in the admin building. Reminder issued.,2026-01-01
+R0252,Duliajan,Unsafe act,Rigger was standing under the suspended load while the crane was lifting. Object missed him by a metre.,2026-01-02
+R0075,Jaisalmer,Unsafe act,Extension board had a broken cover in the office in the admin block. Sent for repair.,2026-01-03
+R0068,Moran,Incident,Two wheeler parked near the fence during the morning shift. Driver was reminded.,2026-01-05
+R0277,Tinsukia,Near miss,Driver forgot to carry the vehicle papers near the main gate. No injury occurred.,2026-01-05
+R0028,Duliajan,Near miss,Store room shelves were not arranged properly in the workshop. No injury occurred.,2026-01-06
+R0040,Tinsukia,Incident,Hot work was carried out with a valid permit and fire watch. Good practice observed.,2026-01-06
+R0315,Tinsukia,Unsafe act,Daily checklist was not signed in the control room in the admin building. Reminder issued.,2026-01-07
+R0123,Moran,Incident,Two wheeler parked near the fence during the morning shift. Driver was reminded.,2026-01-09
+R0004,Naharkatiya,Unsafe act,Staff member slipped on the wet floor of the pantry. Returned to duty after first aid.,2026-01-10
+R0044,Tinsukia,Unsafe act,Crane lift of generator set was done as per the lift plan. No issue found.,2026-01-10
+R0194,Naharkatiya,Unsafe condition,Chair in the control room was broken in the workshop. Sent for repair.,2026-01-11
+R0219,Kumchai,Near miss,Crane lift of GGS feed pump was done as per the lift plan after the toolbox talk.,2026-01-11
+R0357,Tinsukia,Incident,Worker used a hammer with a loose handle.,2026-01-12
+R0052,Kumchai,Unsafe condition,Grinding work was going on close to the flare line without hot work permit. Sparks fell near the drain.,2026-01-13
+R0037,Naharkatiya,Incident,Crane lift of separator unit was done as per lift plan after toolbox talk. Good practice observed.,2026-01-14
+R0291,Kumchai,Near miss,Daily checklist was not signed in control room during weekly audit.,2026-01-14
+R0294,Jaisalmer,Unsafe act,Worker got a small cut on the finger while opening a box and received first aid. Returned to duty after first aid.,2026-01-16
+R0039,Jaisalmer,Unsafe act,Employee twisted his ankle while walking on the stairs and received first aid.,2026-01-17
+R0034,Duliajan,Unsafe condition,Team carried out well servicing job without a job safety analysis. Gas smell was noticed.,2026-01-18
+R0364,Jaisalmer,Near miss,Ladder of store had missing rubber foot. No injury occurred.,2026-01-19
+R0420,Moran,Unsafe act,Bus was late reaching the colony. Security informed.,2026-01-19
+R0151,Tinsukia,Unsafe act,Vehicle was parked in wrong bay at gate during morning shift. No injury occurred.,2026-01-20
+R0141,Tinsukia,Incident,Tank entry was done after gas testing with a standby person by a trained team. Job completed safely.,2026-01-22
+R0349,Jaisalmer,Unsafe condition,Welding was carried out on the pipe near mud pump and no fire watch was posted. Stopped by the safety officer.,2026-01-22
+R0405,Naharkatiya,Near miss,Register entry was missed by the security guard in the admin building. Corrected the same day.,2026-01-22
+R0230,Jaisalmer,Near miss,Visitor entered the office area without a badge.,2026-01-23
+R0172,Moran,Incident,Worker got small cut on finger while opening box and received first aid.,2026-01-24
+R0185,Jaisalmer,Near miss,Fire extinguisher inspection tag was overdue in the office block. Corrected the same day.,2026-01-25
+R0226,Moran,Unsafe act,Visitor entered the office area without a badge. PPE was issued.,2026-01-25
+R0074,Tinsukia,Near miss,Two wheeler parked near the fence. No injury occurred.,2026-01-26
+R0325,Jaisalmer,Near miss,Tank entry was done after gas testing with standby person by trained team. No issue found.,2026-01-26
+R0362,Kumchai,Near miss,Daily checklist was not signed in control room in admin building. Corrected same day.,2026-01-26
+R0375,Tinsukia,Unsafe act,Isolation of pump P-204 was verified and locked out before repair after the toolbox talk. No injury occurred.,2026-01-26
+R0047,Naharkatiya,Unsafe act,Worker got small cut on finger while opening box at site office. No lost time.,2026-01-28
+R0086,Duliajan,Incident,Vehicle was parked in the wrong bay at the gate during the morning shift. Security informed.,2026-01-28
+R0193,Kumchai,Unsafe act,Scrap material was kept in the passage outside the control room. No injury occurred.,2026-01-29
+R0331,Duliajan,Unsafe act,Operator overrode interlock of generator set and forgot to restore it. Alarm did not sound.,2026-01-29
+R0021,Duliajan,Near miss,Mechanic removed the coupling guard of pump P-204 for repair without lockout tag. No injury occurred.,2026-01-30
+R0186,Moran,Incident,Two workers entered crude oil tank for cleaning and gas detector was not used. One worker felt dizzy.,2026-01-30
+R0160,Kumchai,Unsafe act,Hot work was carried out with valid permit and fire watch after toolbox talk. No issue found.,2026-01-31
+R0009,Jaisalmer,Unsafe condition,Crew member stood in the swing path of the pipe as the pipe swung on the sling. The load moved sideways.,2026-02-03
+R0010,Naharkatiya,Incident,Training record was not updated for one employee. Reminder issued.,2026-02-05
+R0058,Tinsukia,Incident,Oil spill was seen on floor of pump house in maintenance shop. Housekeeping team informed.,2026-02-05
+R0156,Jaisalmer,Incident,Crane lifted separator skid with damaged sling. Lift was stopped midway.,2026-02-05
+R0250,Jaisalmer,Unsafe act,Helper climbed into manhole of storage tank without standby person at entry point. No injury occurred.,2026-02-07
+R0345,Tinsukia,Near miss,Scrap material was kept in the passage. Area was cleaned.,2026-02-08
+R0207,Kumchai,Near miss,Employee walking without hand gloves in the store for a short time. No injury occurred.,2026-02-09
+R0266,Duliajan,Incident,Workers opened the flange on the process line witohut a toolbox talk.,2026-02-09
+R0095,Tinsukia,Unsafe act,Crane lift of generator set was done as per the lift plan after the toolbox talk. Good practice observed.,2026-02-10
+R0077,Tinsukia,Incident,Helper not wearing safety glasses while sweeping. PPE was issued.,2026-02-11
+R0257,Naharkatiya,Unsafe condition,Electrician opened the conrtol panel of pump P-204 without lockout tag. Noticed by a co-worker in time.,2026-02-11
+R0071,Duliajan,Incident,Daily checklist was not signed in the control room during the weekly audit. Reminder issued.,2026-02-13
+R0278,Duliajan,Incident,Operator overrode interlock of separator unit during night shift. Pressure rose above limit.,2026-02-13
+R0198,Tinsukia,Unsafe act,Daily checklist was not signed in the control room during the weekly audit. Reminder issued.,2026-02-14
+R0137,Jaisalmer,Near miss,Fire extinguisher inspection tag was overdue in the office block in the admin building.,2026-02-15
+R0244,Naharkatiya,Unsafe act,Crane lift of well pad panel was done as per lift plan after toolbox talk. No injury occurred.,2026-02-15
+R0248,Tinsukia,Incident,Register entry was missed by the security guard during the weekly audit. Corrected the same day.,2026-02-16
+R0181,Jaisalmer,Unsafe condition,Contractor started hot work on the skid without hot work permit. Sparks fell near the drain.,2026-02-17
+R0117,Duliajan,Unsafe act,Forklift carried loaded pipe bundle without lift plan. No injury occurred.,2026-02-19
+R0177,Tinsukia,Unsafe condition,Visitor entered office area without badge in low risk area. Counselled on spot.,2026-02-19
+R0293,Kumchai,Near miss,Helper had a minor bruise from the tool box and received first aid.,2026-02-20
+R0319,Tinsukia,Unsafe condition,Fire extinguisher inspection tag was overdue in the office block in the admin building.,2026-02-20
+R0035,Tinsukia,Near miss,Worker stood near the hammer union during pressure testing while the crane was lifting. No injury occurred.,2026-02-21
+R0143,Duliajan,Unsafe act,Worker walked under the raised load on the rig floor as the pipe swung on the sling.,2026-02-23
+R0059,Jaisalmer,Unsafe condition,Chair in the control room was broken in the workshop. Sent for repair.,2026-02-25
+R0189,Naharkatiya,Unsafe condition,Crew started work on the live gas line with an expired permit. Hydrocarbon leaked from the flange.,2026-02-26
+R0018,Jaisalmer,Near miss,Staff member slipped on the wet floor of the pantry.,2026-02-27
+R0073,Kumchai,Incident,Scrap material was kept in the passage. Area was cleaned.,2026-02-27
+R0247,Jaisalmer,Near miss,Store room shelves were not arranged properly in maintenance shop. No injury occurred.,2026-02-27
+R0417,Jaisalmer,Near miss,Scrap material was kept in passage. Area was cleaned.,2026-02-27
+R0076,Moran,Unsafe act,Training record was not updated for one employee in the admin building. Reminder issued.,2026-02-28
+R0239,Duliajan,Incident,Worker stood near the hammer union during pressure testing while the line was still pressurised. The load moved sideways.,2026-02-28
+R0304,Naharkatiya,Unsafe act,Chair in the control room was broken in the admin block. Sent for repair.,2026-03-01
+R0334,Jaisalmer,Incident,Ladder of the store had a missing rubber foot. Sent for repair.,2026-03-03
+R0202,Tinsukia,Unsafe act,Vehicle was parked in the wrong bay at the gate. Driver was reminded.,2026-03-04
+R0338,Moran,Incident,Mobile crane started lifting generator with damaged sling. Lift was stopped midway.,2026-03-07
+R0017,Kumchai,Unsafe condition,Fire extinguisher inspection tag was overdue in the office block during the weekly audit.,2026-03-08
+R0029,Kumchai,Unsafe act,Scrap material was kept in the passage in the maintenance shop.,2026-03-08
+R0166,Moran,Near miss,Employee walking without hand gloves in the store for a short time.,2026-03-08
+R0080,Kumchai,Unsafe condition,Employee twisted his ankle while walking on the stairs. Returned to duty after first aid.,2026-03-11
+R0093,Kumchai,Incident,Staff member slipped on the wet floor of the pantry. Returned to duty after first aid.,2026-03-11
+R0147,Tinsukia,Incident,Fire extinguisher inspection tag was overdue in the office block during the weekly audit. Corrected the same day.,2026-03-11
+R0346,Duliajan,Unsafe act,Tank entry was done after gas testing with a standby person.,2026-03-11
+R0103,Kumchai,Incident,Driver forgot to carry the vehicle papers near the main gate. Driver was reminded.,2026-03-13
+R0265,Kumchai,Unsafe condition,Helper not wearing safety glasses while sweeping.,2026-03-14
+R0368,Moran,Unsafe act,Ladder of the store had a missing rubber foot in the admin block. No injury occurred.,2026-03-16
+R0145,Duliajan,Unsafe condition,Derrick hoist was used to raise the casing without a lift plan. Lift was stopped midway.,2026-03-17
+R0290,Jaisalmer,Unsafe act,Driver was driving crew van to rig above speed limit.,2026-03-18
+R0366,Kumchai,Unsafe act,Worker was found without ear plugs in the generator room for a short time.,2026-03-20
+R0104,Moran,Near miss,Scrap material was kept in the passage outside the control room. Reported to supervisor.,2026-03-21
+R0342,Kumchai,Unsafe act,Welding job completed with gas test and fire watch in place after the toolbox talk. No issue found.,2026-03-21
+R0041,Jaisalmer,Unsafe act,Contractor started hot work on the skid and no fire watch was posted. Stopped by the safety officer.,2026-03-22
+R0243,Kumchai,Near miss,Employee twisted his ankle while walking on the stairs at the site office.,2026-03-22
+R0101,Duliajan,Near miss,Employee twisted his ankle while walking on the stairs and received first aid.,2026-03-23
+R0352,Kumchai,Unsafe act,Store room shelves were not arranged properly. No injury occurred.,2026-03-23
+R0412,Duliajan,Incident,Register entry was missed by the security guard in the admin building. Corrected the same day.,2026-03-24
+R0082,Moran,Incident,Oil spill was seen on the floor of the pump house in the maintenance shop.,2026-03-25
+R0140,Tinsukia,Incident,Crane lift of GGS feed pump was done as per the lift plan. Good practice observed.,2026-03-26
+R0238,Jaisalmer,Unsafe condition,Grinding work was going on close to flare line without hot work permit. No fire occurred.,2026-03-26
+R0115,Duliajan,Near miss,Employee walking without hand gloves in the store in a low risk area. Counselled on the spot.,2026-03-27
+R0355,Kumchai,Near miss,Tank entry was done after gas testing with standby person. Job completed safely.,2026-03-27
+R0327,Moran,Incident,Scrap material was kept in the passage outside the control room.,2026-03-28
+R0113,Kumchai,Unsafe act,Oil spill was seen on the floor of the pump house in the workshop. No injury occurred.,2026-03-29
+R0036,Jaisalmer,Unsafe act,Worker climbed the derrick platform with the handrail removed. Worker slipped but caught the rail.,2026-03-30
+R0072,Naharkatiya,Near miss,Driver forgot to carry vehicle papers. Security informed.,2026-03-30
+R0374,Kumchai,Unsafe condition,Wet floor near the canteen entrance in the workshop. Area was cleaned.,2026-03-31
+R0361,Duliajan,Unsafe condition,Worker walked under raised load on rig floor as pipe swung on sling. The load moved sideways.,2026-04-01
+R0153,Naharkatiya,Unsafe act,Register entry was missed by the security guard during the weekly audit. Corrected the same day.,2026-04-02
+R0320,Naharkatiya,Unsafe act,Mechanic removed the coupling guard of GGS feed pump for repair without confirming electrical isolation. Noticed by a co-worker in time.,2026-04-02
+R0323,Duliajan,Unsafe condition,Rigger was standing under the suspended load while the line was still pressurised.,2026-04-02
+R0335,Kumchai,Incident,Worker used a hammer with a loose handle. Sent for repair.,2026-04-02
+R0191,Tinsukia,Unsafe act,Wet floor near the canteen entrance in the maintenance shop. No injury occurred.,2026-04-03
+R0114,Kumchai,Unsafe act,Crane lift of well pad panel was done as per the lift plan. No issue found.,2026-04-07
+R0321,Moran,Incident,Technician put a jumper on the gas detector to keep the plant running. Pressure rose above the limit.,2026-04-08
+R0367,Duliajan,Unsafe act,Helper not wearing safety glasses while sweeping. No injury occurred.,2026-04-09
+R0394,Naharkatiya,Unsafe act,Electrician opened control panel of generator set without confirming electrical isolation. Stored pressure was still in line.,2026-04-09
+R0107,Kumchai,Near miss,Worker got a small cut on the finger while opening a box and received first aid. No lost time.,2026-04-10
+R0139,Kumchai,Incident,Worker used a hammer with a loose handle in the admin block.,2026-04-10
+R0150,Jaisalmer,Unsafe act,Crane lift of GGS feed pump was done as per the lift plan after the toolbox talk.,2026-04-10
+R0081,Tinsukia,Incident,Vehicle was parked in the wrong bay at the gate.,2026-04-11
+R0015,Duliajan,Unsafe condition,Employee walking without hand gloves in the store in a low risk area.,2026-04-12
+R0061,Duliajan,Unsafe condition,Helper had a minor bruise from the tool box at the site office.,2026-04-12
+R0271,Duliajan,Unsafe act,Scrap material was kept in the passage in the maintenance shop.,2026-04-12
+R0092,Duliajan,Incident,Worker got a small cut on the finger while opening a box and received first aid. Returned to duty after first aid.,2026-04-15
+R0213,Moran,Near miss,Employee walking without hand gloves in the store.,2026-04-16
+R0407,Kumchai,Unsafe act,Loose cables were lying on walkway near generator set. Housekeeping team informed.,2026-04-16
+R0016,Naharkatiya,Unsafe act,Crane lift of well pad panel was done as per the lift plan after the toolbox talk.,2026-04-17
+R0179,Kumchai,Unsafe act,Fire extinguisher inspection tag was overdue in the office block during the weekly audit. Reminder issued.,2026-04-17
+R0043,Kumchai,Near miss,Visitor entered the office area without a badge for a short time. No injury occurred.,2026-04-18
+R0263,Naharkatiya,Incident,Electrician opened the control panel of well pad panel and the breaker was found ON. Power was still live.,2026-04-20
+R0060,Jaisalmer,Near miss,Vehicle was parked in the wrong bay at the gate. No injury occurred.,2026-04-21
+R0173,Naharkatiya,Unsafe act,Helper had minor bruise from tool box and received first aid. No lost time.,2026-04-21
+R0337,Jaisalmer,Near miss,Register entry was missed by the security guard in the admin building. Corrected the same day.,2026-04-21
+R0365,Naharkatiya,Near miss,Workers opened flange on process line without job safety analysis. No injury occurred.,2026-04-21
+R0336,Naharkatiya,Unsafe act,Loose cables were lying on the walkway near compressor C-11 in the workshop. Area was cleaned.,2026-04-22
+R0182,Naharkatiya,Incident,Welding was carried out on the pipe near generator set with a hydrocarbon leak in the area. Sparks fell near the drain.,2026-04-23
+R0020,Duliajan,Incident,Two wheeler parked near the fence near the main gate. Driver was reminded.,2026-04-24
+R0242,Moran,Unsafe condition,Loose cables were lying on the walkway near pump P-204 outside the control room. Housekeeping team informed.,2026-04-24
+R0220,Moran,Unsafe condition,Employee twisted his ankle while walking on the stairs. Returned to duty after first aid.,2026-04-27
+R0330,Jaisalmer,Unsafe condition,Training record was not updated for one employee during weekly audit.,2026-04-28
+R0340,Jaisalmer,Unsafe act,Two wheeler parked near the fence. No injury occurred.,2026-04-28
+R0067,Naharkatiya,Near miss,Driver forgot to carry the vehicle papers during the morning shift. Security informed.,2026-04-30
+R0402,Naharkatiya,Unsafe condition,Worker used a hammer with a loose handle in the admin block. Item was replaced.,2026-04-30
+R0216,Duliajan,Unsafe act,Crane lifted separator skid without checking ground condtiion.,2026-05-01
+R0363,Duliajan,Unsafe condition,Helper had a minor bruise from the tool box at the site office. Returned to duty after first aid.,2026-05-01
+R0090,Duliajan,Unsafe condition,Ladder of the store had a missing rubber foot in the admin block.,2026-05-02
+R0190,Tinsukia,Near miss,Two wheeler parked near the fence near the main gate. Security informed.,2026-05-02
+R0099,Jaisalmer,Near miss,Helper not wearing safety glasses while sweeping in low risk area. No injury occurred.,2026-05-03
+R0379,Naharkatiya,Unsafe act,Hot work was carried out with valid permit and fire watch after toolbox talk. No issue found.,2026-05-03
+R0057,Kumchai,Unsafe act,Employee twisted his ankle while walking on the stairs and received first aid.,2026-05-06
+R0146,Tinsukia,Unsafe condition,Register entry was missed by the secruity guard. Corrected the same day.,2026-05-06
+R0240,Moran,Incident,Employee twisted his ankle while walking on the stairs at the site office. No lost time.,2026-05-06
+R0118,Duliajan,Unsafe condition,Worker stood near the hammer union during pressure testing with no barricade. Object missed him by a metre.,2026-05-09
+R0298,Tinsukia,Incident,Contractor began pipeline modification work without a job safety analysis.,2026-05-09
+R0392,Moran,Near miss,Wet floor near the canteen entrance. No injury occurred.,2026-05-10
+R0200,Jaisalmer,Unsafe condition,Helper had minor bruise from tool box and received first aid. No lost time.,2026-05-11
+R0237,Naharkatiya,Near miss,Training record was not updated for one employee.,2026-05-13
+R0314,Tinsukia,Near miss,Hot work was carried out with a valid permit and fire watch after the toolbox talk.,2026-05-13
+R0307,Naharkatiya,Unsafe condition,Store room shelves were not arranged properly in the workshop.,2026-05-16
+R0281,Tinsukia,Near miss,Worker walked under the raised load on the rig floor as the pipe swung on the sling. Object missed him by a metre.,2026-05-17
+R0404,Kumchai,Near miss,Contractor started hot work on the skid and no fire watch was posted. Sparks fell near the drain.,2026-05-17
+R0383,Duliajan,Unsafe act,Helper was positioned in line of fire while releasing pressure while line was still pressurised. No injury occurred.,2026-05-18
+R0022,Kumchai,Unsafe condition,Fire extinguisher inspection tag was overdue in office block. Reminder issued.,2026-05-19
+R0390,Tinsukia,Near miss,Worker climbed the derrick platform without anchoring the lanyard. No injury occurred.,2026-05-20
+R0003,Kumchai,Unsafe act,Derrick hoist was used to raise casing beyond load chart limit. Sling snapped and load dropped.,2026-05-21
+R0310,Duliajan,Unsafe condition,Isolation of heater treater was verified and locked out before repair by a trained team. No issue found.,2026-05-21
+R0130,Jaisalmer,Incident,Worker was found without ear plugs in generator room for short time. Counselled on spot.,2026-05-22
+R0168,Tinsukia,Unsafe act,Employee walking without hand gloves in the store for a short time. Counselled on the spot.,2026-05-22
+R0064,Kumchai,Near miss,Staff member slipped on wet floor of pantry at site office.,2026-05-26
+R0129,Kumchai,Incident,Wet floor near the canteen entrance outside the control room. Area was cleaned.,2026-05-28
+R0225,Jaisalmer,Unsafe act,Operator overrode the interlock of well pad panel without approval. No injury occurred.,2026-05-30
+R0370,Tinsukia,Incident,Helper had a minor bruise from the tool box and received first aid. Returned to duty after first aid.,2026-05-30
+R0380,Duliajan,Unsafe act,Crew member stood in swing path of pipe while line was still pressurised.,2026-05-31
+R0098,Naharkatiya,Unsafe condition,Fitter began repairing compressor C-11 without lockout tag. Stored pressure was still in the line.,2026-06-02
+R0235,Tinsukia,Near miss,Driver forgot to carry the vehicle papers. No injury occurred.,2026-06-03
+R0159,Kumchai,Unsafe condition,Daily checklist was not signed in the control room in the admin building.,2026-06-04
+R0272,Naharkatiya,Near miss,Crane lift of air compressor was done as per the lift plan by a trained team. No issue found.,2026-06-06
+R0360,Naharkatiya,Near miss,Scrap material was kept in passage in maintenance shop. Housekeeping team informed.,2026-06-08
+R0089,Moran,Incident,Crew started work on the live gas line without a work permit. Gas smell was noticed.,2026-06-09
+R0136,Jaisalmer,Near miss,Helper had a minor bruise from the tool box and received first aid. Returned to duty after first aid.,2026-06-09
+R0215,Tinsukia,Unsafe condition,Contract driver reversed the vehicle in the well site after a long shift without rest. Vehicle nearly hit a pedestrian.,2026-06-09
+R0395,Jaisalmer,Unsafe condition,Contractor started hot work on the skid without gas testing. Gas alarm was ringing.,2026-06-09
+R0299,Naharkatiya,Near miss,Isolation of air compressor was verified and locked out before repair by a trained team. Job completed safely.,2026-06-10
+R0251,Tinsukia,Unsafe act,Tank entry was done after gas testing with a standby person by a trained team. Good practice observed.,2026-06-12
+R0322,Naharkatiya,Incident,Loose cables were lying on the walkway near transfer pump in the maintenance shop. Reported to supervisor.,2026-06-13
+R0116,Duliajan,Incident,Oil spill was seen on floor of pump house. Reported to supervisor.,2026-06-18
+R0032,Jaisalmer,Unsafe condition,Employee twisted his ankle while walking on the stairs and received first aid. No lost time.,2026-06-20
+R0329,Moran,Incident,Contractor entered the vessel for inspection without standby person at the entry point.,2026-06-20
+R0358,Duliajan,Unsafe condition,Daily checklist was not signed in the control room.,2026-06-20
+R0111,Naharkatiya,Unsafe act,Worker climbed derrick platform without fall arrest plan. No injury occurred.,2026-06-21
+R0341,Tinsukia,Near miss,Fitter went up the scaffold to reach the pipe rack without anchoring the lanyard. No injury occurred.,2026-06-21
+R0398,Tinsukia,Incident,Helper had a minor bruise from the tool box and received first aid. No lost time.,2026-06-21
+R0102,Naharkatiya,Unsafe condition,Vehicle was parked in wrong bay at gate.,2026-06-23
+R0187,Moran,Incident,Worker got a small cut on the finger while opening a box at the site office.,2026-06-23
+R0221,Jaisalmer,Unsafe act,Derrick hoist was used to raise the casing without a lift plan. Lift was stopped midway.,2026-06-23
+R0393,Jaisalmer,Near miss,Visitor entered the office area without a badge for a short time. No injury occurred.,2026-06-26
+R0088,Jaisalmer,Unsafe condition,Welder started gas cutting near transfer pump and no fire watch was posted. Gas alarm was ringing.,2026-06-27
+R0188,Kumchai,Incident,Oil spill was seen on the floor of the pump house in the maintenance shop. Area was cleaned.,2026-06-27
+R0324,Tinsukia,Unsafe condition,Hot work was carried out with a valid permit and fire watch. No issue found.,2026-06-28
+R0054,Tinsukia,Near miss,Training record was not updated for one employee.,2026-06-29
+R0079,Jaisalmer,Near miss,Register entry was missed by security guard in admin building. Corrected same day.,2026-06-29
+R0012,Naharkatiya,Unsafe condition,Employee twisted his ankle while walking on the stairs at the site office. No lost time.,2026-07-01
+R0005,Naharkatiya,Unsafe condition,Worker used a hammer with a loose handle in the admin block.,2026-07-02
+R0176,Duliajan,Unsafe act,Worker got a small cut on the finger while opening a box and received first aid. No lost time.,2026-07-02
+R0196,Duliajan,Unsafe act,Store room shelves were not arranged properly in the maintenance shop. No injury occurred.,2026-07-03
+R0038,Naharkatiya,Near miss,Hot work was carried out with a valid permit and fire watch after the toolbox talk. No issue found.,2026-07-04
+R0229,Kumchai,Incident,Store room shelves were not arranged properly in the maintenance shop. Housekeeping team informed.,2026-07-05
+R0381,Moran,Unsafe act,Mechanic removed the coupling guard of air compressor for repair without confirming electrical isolation.,2026-07-06
+R0332,Jaisalmer,Unsafe act,Workers opened the flnage on the process line without a work permit.,2026-07-07
+R0197,Kumchai,Near miss,Mechanic removed coupling guard of generator set for repair and breaker was found ON. No injury occurred.,2026-07-08
+R0378,Naharkatiya,Near miss,Worker got a small cut on the finger while opening a box at the site office. Returned to duty after first aid.,2026-07-08
+R0083,Duliajan,Near miss,Helper not wearing safety glasses while sweeping for short time. No injury occurred.,2026-07-09
+R0100,Jaisalmer,Near miss,Helper had a minor bruise from the tool box and received first aid. Returned to duty after first aid.,2026-07-09
+R0106,Naharkatiya,Near miss,Daily checklist was not signed in the control room. Corrected the same day.,2026-07-10
+R0144,Kumchai,Unsafe condition,Worker got small cut on finger while opening box and received first aid.,2026-07-10
+R0231,Kumchai,Near miss,Chair in control room was broken in workshop. No injury occurred.,2026-07-10
+R0167,Kumchai,Unsafe condition,Register entry was missed by the security guard during the weekly audit.,2026-07-12
+R0254,Duliajan,Unsafe act,Scrap material was kept in the passage. Area was cleaned.,2026-07-12
+R0267,Moran,Unsafe condition,Two workers entered the crude oil tank for cleaning without standby person at the entry point. Supervisor called them out.,2026-07-12
+R0273,Moran,Near miss,Chair in the control room was broken. No injury occurred.,2026-07-14
+R0124,Kumchai,Unsafe condition,Employee twisted his ankle while walking on stairs. Returned to duty after first aid.,2026-07-17
+R0411,Jaisalmer,Near miss,Wet floor near canteen entrance in workshop. No injury occurred.,2026-07-17
+R0091,Naharkatiya,Unsafe condition,Contractor began pipeline modification work without a job safety analysis. Hydrocarbon leaked from the flange.,2026-07-18
+R0131,Jaisalmer,Unsafe act,Staff member slipped on the wet floor of the pantry and received first aid. No lost time.,2026-07-18
+R0180,Kumchai,Unsafe act,Staff member slipped on wet floor of pantry and received first aid. No lost time.,2026-07-20
+R0305,Kumchai,Unsafe act,Fire extinguisher inspection tag was overdue in the office block.,2026-07-20
+R0218,Kumchai,Incident,Bus was late reaching the colony during the morning shift. Driver was reminded.,2026-07-21
+R0042,Tinsukia,Near miss,Employee twisted his ankle while walking on stairs. No lost time.,2026-07-23
+R0359,Jaisalmer,Incident,Crane lifted separator skid beyond load chart limit. Sling snapped and load dropped.,2026-07-23
+R0409,Moran,Near miss,Driver forgot to carry the vehicle papers. No injury occurred.,2026-07-23
+R0097,Jaisalmer,Incident,Employee walking without hand gloves in the store for a short time. PPE was issued.,2026-07-25
+R0288,Jaisalmer,Unsafe condition,Contractor started hot work on the skid and no fire watch was posted. Gas alarm was ringing.,2026-07-25
+R0013,Tinsukia,Unsafe condition,Worker used a hammer with a loose handle in the admin block. Sent for repair.,2026-07-27
+R0205,Jaisalmer,Unsafe condition,Welding was carried out on pipe near generator set without hot work permit. No fire occurred.,2026-07-27
+R0261,Naharkatiya,Near miss,Daily checklist was not signed in the control room in the admin building. Reminder issued.,2026-07-27
+R0339,Duliajan,Unsafe act,Helper was positioned in the line of fire while releasing pressure while the line was still pressurised. Object missed him by a metre.,2026-07-27
+R0049,Jaisalmer,Unsafe condition,Welding job completed with gas test and fire watch in place by trained team. Good practice observed.,2026-07-28
+R0351,Moran,Near miss,Two workers entered the crude oil tank for cleaning without standby person at the entry point. One worker felt dizzy.,2026-07-29
+R0372,Jaisalmer,Near miss,Wet floor near canteen entrance in workshop. Area was cleaned.,2026-07-29
+R0110,Tinsukia,Incident,Daily checklist was not signed in the control room.,2026-07-30
+R0157,Moran,Near miss,Ladder of the store had a missing rubber foot in the admin block. Item was replaced.,2026-07-30
+R0164,Moran,Unsafe act,Employee walking without hand gloves in store in low risk area. No injury occurred.,2026-07-30
+R0256,Kumchai,Near miss,Welding job completed with gas test and fire watch in place after the toolbox talk. Good practice observed.,2026-08-02
+R0105,Kumchai,Unsafe condition,Staff member slipped on the wet floor of the pantry at the site office. No lost time.,2026-08-05
+R0214,Duliajan,Unsafe condition,Hot work was carried out with valid permit and fire watch after toolbox talk. Good pracitce observed.,2026-08-06
+R0222,Tinsukia,Incident,Staff member slipped on the wet floor of the pantry and received first aid.,2026-08-06
+R0258,Moran,Near miss,Welder started gas cutting near compressor C-11 without gas testing. Gas alarm was ringing.,2026-08-09
+R0148,Jaisalmer,Unsafe act,Rig crew worked on the monkey board with the handrail removed. Tool fell from height.,2026-08-10
+R0002,Duliajan,Incident,Tank entry was done after gas testing with a standby person. Good practice observed.,2026-08-12
+R0085,Moran,Near miss,Scrap material was kept in the passage in the workshop. No injury occurred.,2026-08-13
+R0120,Naharkatiya,Near miss,Workers opened the flange on the process line with an expired permit. Hydrocarbon leaked from the flange.,2026-08-14
+R0326,Kumchai,Near miss,Daily checklist was not signed in the control room during the weekly audit. Reminder issued.,2026-08-15
+R0007,Kumchai,Near miss,Painter worked on the tank roof without a fall arrest plan. No injury occurred.,2026-08-17
+R0051,Kumchai,Unsafe act,Worker was found without ear plugs in the generator room for a short time. PPE was issued.,2026-08-18
+R0056,Jaisalmer,Unsafe act,Welder started gas cutting near generator set and no fire watch was posted. No fire occurred.,2026-08-18
+R0297,Naharkatiya,Unsafe condition,Mechanic removed the coupling guard of GGS feed pump for repair without confirming electrical isolation. Stored pressure was still in the line.,2026-08-18
+R0397,Duliajan,Near miss,Driver forgot to carry the vehicle papers during the morning shift. Security informed.,2026-08-18
+R0070,Jaisalmer,Unsafe act,Worker was found without ear plugs in the generator room for a short time. Counselled on the spot.,2026-08-19
+R0078,Tinsukia,Near miss,Fire extinguisher inspection tag was overdue in the office block in the admin building. Reminder issued.,2026-08-19
+R0119,Tinsukia,Unsafe condition,Bus was late reaching the colony during the morning shift. Security informed.,2026-08-19
+R0300,Naharkatiya,Near miss,Scrap material was kept in the passage outside the control room. Housekeeping team informed.,2026-08-19
+R0126,Moran,Near miss,Welding job completed with gas test and fire watch in place after toolbox talk. No injury occurred.,2026-08-20
+R0096,Kumchai,Incident,Worker used a hammer with a loose handle in the workshop.,2026-08-21
+R0169,Tinsukia,Near miss,Hot work was carried out with valid permit and fire watch after toolbox talk. Good practice observed.,2026-08-21
+R0253,Duliajan,Near miss,Extension board had a broken cover in the office in the workshop.,2026-08-21
+R0275,Jaisalmer,Unsafe condition,Tank entry was done after gas testing with standby person.,2026-08-21
+R0048,Tinsukia,Incident,Register entry was missed by the security guard in the admin building. Corrected the same day.,2026-08-22
+R0210,Jaisalmer,Unsafe act,Contractor started hot work on the skid with flammable vapour present nearby. Sparks fell near the drain.,2026-08-24
+R0303,Tinsukia,Incident,Vehicle was parked in the wrong bay at the gate during the morning shift. Security informed.,2026-08-24
+R0045,Tinsukia,Near miss,Worker used hammer with loose handle. Sent for repair.,2026-08-27
+R0284,Kumchai,Unsafe act,Wet floor near canteen entrance. Area was cleaned.,2026-08-27
+R0312,Kumchai,Near miss,Worker was found without ear plugs in the generator room in a low risk area. No injury occurred.,2026-08-28
+R0408,Naharkatiya,Unsafe act,Fitter went up the scaffold to reach the pipe rack without a fall arrest plan. No injury occurred.,2026-08-29
+R0280,Tinsukia,Near miss,Vehicle was parked in the wrong bay at the gate during the morning shift. No injury occurred.,2026-08-30
+R0063,Naharkatiya,Near miss,Worker used a hammer with a loose handle in the worskhop. Item was replaced.,2026-08-31
+R0413,Duliajan,Unsafe act,Rigger was standing under the suspended load and the tag line was not used. The load moved sideways.,2026-09-02
+R0286,Moran,Near miss,Bus was late reaching colony near main gate. No injury occurred.,2026-09-03
+R0318,Tinsukia,Near miss,Two wheeler parked near the fence during the morning shift. Driver was reminded.,2026-09-03
+R0317,Duliajan,Incident,Worker got small cut on finger while opening box at site office.,2026-09-06
+R0026,Jaisalmer,Near miss,Employee walking without hand gloves in the store for a short time.,2026-09-08
+R0313,Tinsukia,Unsafe act,Chair in the control room was broken in the workshop.,2026-09-08
+R0152,Jaisalmer,Near miss,Oil spill was seen on the floor of the pump house outside the control room. No injury occurred.,2026-09-11
+R0302,Kumchai,Incident,Two wheeler parked near fence during morning shift.,2026-09-11
+R0371,Duliajan,Near miss,Contractor began pipeline modification work without a work permit. Gas smell was noticed.,2026-09-11
+R0292,Jaisalmer,Unsafe act,Driver forgot to carry the vehicle papers. No injury occurred.,2026-09-12
+R0391,Moran,Incident,Worker was found without ear plugs in the generator room in a low risk area. Counselled on the spot.,2026-09-12
+R0031,Kumchai,Incident,Driver forgot to carry the vehicle papers.,2026-09-13
+R0178,Moran,Near miss,Wet floor near the canteen entrance outside the control room. Housekeeping team informed.,2026-09-17
+R0246,Naharkatiya,Unsafe act,Two wheeler parked near fence near main gate.,2026-09-17
+R0268,Duliajan,Unsafe condition,Worker was found without ear plugs in the generator room. Counselled on the spot.,2026-09-20
+R0388,Jaisalmer,Near miss,Training record was not updated for one employee. Reminder issued.,2026-09-20
+R0128,Naharkatiya,Unsafe act,Hot work was carried out with a valid permit and fire watch after the toolbox talk. No injury occurred.,2026-09-21
+R0161,Jaisalmer,Unsafe act,Extension board had a broken cover in the office.,2026-09-22
+R0415,Jaisalmer,Incident,Welder started gas cutting near transfer pump without hot work permit. Gas alarm was ringing.,2026-09-22
+R0347,Kumchai,Unsafe condition,Tanker driver was moving the truck on the lease road with no banksman guiding.,2026-09-23
+R0127,Duliajan,Near miss,Worker was found without ear plugs in the generator room in a low risk area. No injury occurred.,2026-09-24
+R0155,Moran,Incident,Chair in the control room was broken in the admin block. Sent for repair.,2026-09-25
+R0195,Duliajan,Near miss,Workers opened the flange on the process line without a toolbox talk. Hydrocarbon leaked from the flange.,2026-09-28
+R0308,Kumchai,Near miss,Helper not wearing safety glasses while sweeping in a low risk area.,2026-09-28
+R0403,Jaisalmer,Unsafe condition,Staff member slipped on the wet floor of the pantry and received first aid. No lost time.,2026-09-29
+R0023,Jaisalmer,Unsafe act,Welding job completed with gas test and fire watch in place. No injury occurred.,2026-09-30
+R0385,Jaisalmer,Unsafe act,Chair in the control room was broken in the workshop. Item was replaced.,2026-09-30
